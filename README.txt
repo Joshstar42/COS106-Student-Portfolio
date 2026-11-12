@@ -10,7 +10,9 @@ FILES
 - index.html, about.html, projects.html, planner.html, contact.html: five website pages
 - css/style.css: external responsive stylesheet
 - js/script.js: navigation, academic planner and contact form validation
-- assets/: add your own profile photograph here if desired
+- assets/scapms-dashboard.png: Smart Clinic application dashboard screenshot
+- assets/scapms-report.png: Smart Clinic summary report screenshot
+- Add your own profile photograph to assets/ if desired
 
 IMPORTANT PERSONALISATION
 - Check all profile details and edit anything that is inaccurate.
